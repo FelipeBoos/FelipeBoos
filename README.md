@@ -22,7 +22,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
 </p>
 
-<div role="separator" style="height:1px; background:#30363d; margin:16px 0;"></div>
+<div role="separator" style="height:3px; background:rgba(255, 255, 255, 0.55); margin:16px 0;"></div>
 
 <h3>Desenvolvimento Frontend</h3>
 <p>
@@ -32,7 +32,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
 </p>
 
-<div role="separator" style="height:1px; background:#30363d; margin:16px 0;"></div>
+<div role="separator" style="height:3px; background:rgba(255,255,255,0.5); margin:16px 0;"></div>
 
 <h3>Desenvolvimento Backend</h3>
 <p>
@@ -41,7 +41,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
   </a>
 </p>
 
-<div role="separator" style="height:1px; background:#30363d; margin:16px 0;"></div>
+<div role="separator" style="height:3px; background:rgba(255,255,255,0.5); margin:16px 0;"></div>
 
 <h3>Bancos de dados</h3>
 <p>
@@ -51,6 +51,16 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBoos&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=vue&hide_border=true&order=2&custom_title=Linguagens%20Mais%20Utilizadas%20-%20Projetos" height="150" alt="Gráfico de Linguagens"  />
+</div>
+
+<h2>Entre em contato comigo!</h2>
+<div align="left">
+    <a href="https://www.linkedin.com/in/felipe-boos-922380241" target="_blank" style="text-decoration:none; display:inline-block">
+        <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Java" style="border:0;">
+    </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 <!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
