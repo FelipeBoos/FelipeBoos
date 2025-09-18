@@ -1,9 +1,18 @@
-<h2>Olá, meu nome é Felipe. Seja bem vindo ao meu perfil!</h2>
+<h2>Olá 👋, eu sou o Felipe!</h2>
 
-<p align="left">Sou um estudante de Ciência da Computação na Furb, atualmente na quarta fase. Estou também complementando meu conhecimento com cursos na Alura e na Udemy.<p>
-<p align="left">Sou apaixonado por tecnologia e busco constantemente aprender e evoluir. Estou empolgado para utilizar os conhecimentos que adquiri com meus estudos para entregar soluções eficientes e de qualidade.</p>
+<p align="left">
+Sou estudante de Ciência da Computação (4ª fase) na FURB e estou sempre buscando expandir meus conhecimentos por meio de cursos e projetos práticos. 
+Atualmente complemento meus estudos com formações na Alura e na Udemy.
+</p>
 
-<h2 align="center">Meus stats</h2>
+<p align="left">
+Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar o que aprendo no desenvolvimento de soluções criativas, eficientes e de qualidade. 🚀
+</p>
+
+<p align="left">
+
+
+<h2 align="center">Tech Stack ⚡</h2>
 
 <h3>Linguagens de Programação</h3>
 <p>
@@ -13,6 +22,8 @@
     <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
 </p>
 
+<hr>
+
 <h3>Desenvolvimento Frontend</h3>
 <p>
     <img src="images/web_development/logo_html5.svg" width="100" title="HTML" alt="Logo HTML 5">
@@ -21,6 +32,7 @@
     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
 </p>
 
+<hr>
 
 <h3>Desenvolvimento Backend</h3>
 <p>
@@ -29,6 +41,7 @@
   </a>
 </p>
 
+<hr>
 
 <h3>Bancos de dados</h3>
 <p>
