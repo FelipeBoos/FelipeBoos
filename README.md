@@ -1,22 +1,3 @@
-<!--## Hi there 👋 -->
-
-<!--
-**FelipeBoos/FelipeBoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- # Olá, meu nome é Felipe. Seja bem vindo ao meu perfil! -->
-
 <h2>Olá, meu nome é Felipe. Seja bem vindo ao meu perfil!</h2>
 
 <p align="left">Sou um estudante de Ciência da Computação na Furb, atualmente na quarta fase. Estou também complementando meu conhecimento com cursos na Alura e na Udemy.<p>
@@ -32,8 +13,6 @@ Here are some ideas to get you started:
     <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
 </p>
 
-<hr>
-
 <h3>Desenvolvimento Frontend</h3>
 <p>
     <img src="images/web_development/logo_html5.svg" width="100" title="HTML" alt="Logo HTML 5">
@@ -42,7 +21,6 @@ Here are some ideas to get you started:
     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
 </p>
 
-<hr>
 
 <h3>Desenvolvimento Backend</h3>
 <p>
@@ -51,12 +29,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<hr>
 
 <h3>Bancos de dados</h3>
 <p>
     <img src="images/databases/logo_mysql.svg" width="100" title="MySQL" alt="Logo MySQL">
 </p>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBoos&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=vue&hide_border=true&order=2&custom_title=Linguagens%20Mais%20Utilizadas%20-%20Projetos" height="150" alt="Gráfico de Linguagens"  />
+</div>
 
 <!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
 
