@@ -22,7 +22,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
 </p>
 
-<hr style="border:0; border-top:1px solid #444; margin:16px 0;">
+<div role="separator" style="height:1px; background:#30363d; margin:16px 0;"></div>
 
 <h3>Desenvolvimento Frontend</h3>
 <p>
@@ -32,7 +32,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
 </p>
 
-<hr style="border:0; border-top:1px solid #444; margin:16px 0;">
+<div role="separator" style="height:1px; background:#30363d; margin:16px 0;"></div>
 
 <h3>Desenvolvimento Backend</h3>
 <p>
@@ -41,7 +41,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
   </a>
 </p>
 
-<hr style="border:0; border-top:1px solid #444; margin:16px 0;">
+<div role="separator" style="height:1px; background:#30363d; margin:16px 0;"></div>
 
 <h3>Bancos de dados</h3>
 <p>
