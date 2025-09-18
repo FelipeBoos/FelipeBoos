@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3>Linguagens de Programação</h3>
 <p>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none; display:inline_block">
+  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="images/programming_languages/logo_java.svg" width="100" title="Java" alt="Logo Java" style="border:0;">
   </a>
   <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
