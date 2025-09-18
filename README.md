@@ -63,14 +63,12 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
         <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Instagram" style="border:0;">
     </a>
     <br>
-    <div style="display:flex; align:center;">
-        <p align="center" style="margin-top:20px; margin-bottom:20px;">
-            <a href="mailto:felipeboos18@gmail.com" style="text-decoration:none;">
-                <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="vertical-align:middle; margin-right:10px;">
-                <span style="font-size:16px; vertical-align:middle;">felipeboos18@gmail.com</span>
-            </a>
-        </p>
-    </div>
+    <p align="left" style="margin-top:20px; margin-bottom:20px;">
+        <a href="mailto:felipeboos18@gmail.com" style="text-decoration:none;">
+            <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="vertical-align:middle; margin-right:10px;">
+            <span style="font-size:16px; vertical-align:middle;">felipeboos18@gmail.com</span>
+        </a>
+    </p>
 </div>
 
 <!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
