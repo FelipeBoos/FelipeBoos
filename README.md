@@ -56,6 +56,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
   </a>
+  <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
+  <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
 </p>
 
 <hr>
