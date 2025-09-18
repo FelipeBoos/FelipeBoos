@@ -26,6 +26,42 @@ Here are some ideas to get you started:
 
 <h3>Linguagens de Programação</h3>
 <p>
+    <img src="images/programming_languages/logo_java.svg" width="100" title="Java" alt="Logo Java">
+    <img src="images/programming_languages/logo_javascript.svg" width="100" title="JavaScript" alt="Logo JavaScript">
+    <img src="images/programming_languages/logo_typescript.svg" width="100" title="TypeScript" alt="Logo TypeScript">
+    <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
+</p>
+
+<hr>
+
+<h3>Desenvolvimento Frontend</h3>
+<p>
+    <img src="images/web_development/logo_html5.svg" width="100" title="HTML" alt="Logo HTML 5">
+    <img src="images/web_development/logo_css3.svg" width="100" title="CSS" alt="Logo CSS 3">
+    <img src="images/web_development/logo_angular.svg" width="100" title="Angular" alt="Logo Angular">
+    <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
+</p>
+
+<hr>
+
+<h3>Desenvolvimento Backend</h3>
+<p>
+    <img src="images/backend_development/logo_spring.svg" width="100" title="Spring" alt="Logo Spring">
+    <img src="images/backend_development/logo_node.svg" width="100" title="Node.js" alt="Logo Node.js">
+  </a>
+</p>
+
+<hr>
+
+<h3>Bancos de dados</h3>
+<p>
+    <img src="images/databases/logo_mysql.svg" width="100" title="MySQL" alt="Logo MySQL">
+</p>
+
+<!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
+
+<h3>Linguagens de Programação</h3>
+<p>
   <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="images/programming_languages/logo_java.svg" width="100" title="Java" alt="Logo Java" style="border:0;">
   </a>
@@ -80,3 +116,6 @@ Here are some ideas to get you started:
     <img src="images/databases/logo_mysql.svg" width="100" title="MySQL" alt="Logo MySQL">
   </a>
 </p>
+
+
+-->
