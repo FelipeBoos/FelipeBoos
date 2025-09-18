@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 <h2>Olá, meu nome é Felipe. Seja bem vindo ao meu perfil!</h2>
 
+<img src="images/logo_html5.svg" width="100">
+<img src="images/logo_css3.svg" width="100">
