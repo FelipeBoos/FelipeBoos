@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Olá, eu sou o Felipe, bem vindo ao meu perfil</h2>
+<!-- # Olá, meu nome é Felipe. Seja bem vindo ao meu perfil! -->
+
+<h2>Olá, meu nome é Felipe. Seja bem vindo ao meu perfil!</h2>
+
