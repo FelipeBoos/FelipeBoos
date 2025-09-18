@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 <h2>Olá, meu nome é Felipe. Seja bem vindo ao meu perfil!</h2>
 
+<p align="left">Sou um estudante de Ciência da Computação na Furb, atualmente na quarta fase. Estou também complementando meu conhecimento com cursos na Alura e na Udemy.<p>
+<p align="left">Sou apaixonado por tecnologia e busco constantemente aprender e evoluir. Estou empolgado para utilizar os conhecimentos que adquiri com meus estudos para entregar soluções eficientes e de qualidade.</p>
+
 <h2 align="center">Meus stats</h2>
  
 <div>
@@ -35,21 +38,25 @@ Here are some ideas to get you started:
                 <a href="https://www.instagram.com/felipe_boos" target="_blank"> <!-- Teste -->
                     <img src="images/programming_languages/logo_typescript.svg" width="100" title="TypeScript" alt="Logo TypeScript">
                 </a>
+                <a href="https://www.instagram.com/felipe_boos" target="_blank"> <!-- Teste -->
+                    <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
+                </a>
             </div>
         </li>
+        <hr>
         <li>
             <h3>Desenvolvimento Frontend</h3>
             <div>
-                <a href="https://www.instagram.com/felipe_boos" target="_blank"> <!-- Teste -->
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
                     <img src="images/web_development/logo_html5.svg" width="100" title="HTML" alt="Logo HTML 5">
                 </a>
-                <a href="https://www.instagram.com/felipe_boos" target="_blank"> <!-- Teste -->
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
                     <img src="images/web_development/logo_css3.svg" width="100" title="CSS" alt="Logo CSS 3">
                 </a>
-                <a href="https://www.instagram.com/felipe_boos" target="_blank"> <!-- Teste -->
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
                     <img src="images/web_development/logo_angular.svg" width="100" title="Angular" alt="Logo Angular">
                 </a>
-                <a href="https://www.instagram.com/felipe_boos" target="_blank"> <!-- Teste -->
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
                     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
                 </a>
             </div>
@@ -57,10 +64,23 @@ Here are some ideas to get you started:
         <hr>
         <li>
             <h3>Desenvolvimento Backend</h3>
+            <div>
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
+                    <img src="images/backend_development/logo_spring.svg" width="100" title="Spring" alt="Logo Spring">
+                </a>
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
+                    <img src="images/backend_development/logo_node.svg" width="100" title="Node.js" alt="Logo Node.js">
+                </a>
+            </div>
         </li>
         <hr>
         <li>
             <h3>Bancos de dados</h3>
+            <div>
+                <a href="https://www.instagram.com/felipe_boos" target="_blank">
+                    <img src="images/databases/logo_mysql.svg" width="100" title="MySQL" alt="Logo MySQL">
+                </a>
+            </div>
         </li>
     </ul>
 </div>
