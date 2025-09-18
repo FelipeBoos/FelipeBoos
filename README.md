@@ -58,9 +58,11 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <a href="https://www.linkedin.com/in/felipe-boos-922380241" target="_blank" style="text-decoration:none; display:inline-block">
         <img src="images/social_media/logo_linkedin.svg" width="40" title="LinkedIn" alt="Logo LinkedIn" style="border:0;">
     </a>
+    <br>
     <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none; display:inline-block">
         <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Instagram" style="border:0;">
     </a>
+    <br>
     <a href="https://www.gmail" target="_blank" style="text-decoration:none; display:inline-block">
         <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="border:0;">
     </a>
