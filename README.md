@@ -56,11 +56,14 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
 <h2>Entre em contato comigo!</h2>
 <div align="left">
     <a href="https://www.linkedin.com/in/felipe-boos-922380241" target="_blank" style="text-decoration:none; display:inline-block">
-        <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Java" style="border:0;">
+        <img src="images/social_media/logo_linkedin.svg" width="40" title="LinkedIn" alt="Logo LinkedIn" style="border:0;">
     </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none; display:inline-block">
+        <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Instagram" style="border:0;">
+    </a>
+    <a href="https://www.gmail" target="_blank" style="text-decoration:none; display:inline-block">
+        <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="border:0;">
+    </a>
 </div>
 
 <!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
