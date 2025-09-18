@@ -63,8 +63,8 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
         <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Instagram" style="border:0;">
     </a>
     <br>
-    <a href="https://www.gmail" target="_blank" style="text-decoration:none; display:inline-block">
-        <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="border:0;">
+    <a href="mailto:felipeboos18@gmail.com" style="text-decoration:none; display:inline-block">
+        <img src="images/social_media/logo_gmail.svg" width="40" title="Enviar e-mail" alt="Logo Gmail" style="border:0;">
     </a>
 </div>
 
