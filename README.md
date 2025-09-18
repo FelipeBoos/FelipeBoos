@@ -37,7 +37,6 @@ Here are some ideas to get you started:
                 </a>
             </div>
         </li>
-        <h3>
         <li>
             <h3>Desenvolvimento Frontend</h3>
             <div>
