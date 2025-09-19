@@ -8,7 +8,7 @@ Atualmente complemento meus estudos com formações na Alura e na Udemy.
 </p>
 
 <p align="left">
-Atualmente trabalho mais com Java, Spring e Angular, desenvolvendo projetos que unem essas tecnologias para criar aplicações completas e funcionais. Abaixo estão minhas redes sociais caso queira entrar em contato!
+Atualmente trabalho mais com Java, Spring e Angular, e para colocar meus conhecimentos em prática estou desenvolvendo um sistema de gestão de estoques, utilizando também JUnit e PostgreSQL. Abaixo estão minhas redes sociais caso queira entrar em contato!
 </p>
 
 <h2 align="center">- Tech Stack -</h2>
@@ -32,13 +32,14 @@ Atualmente trabalho mais com Java, Spring e Angular, desenvolvendo projetos que 
 <h3>Desenvolvimento Backend</h3>
 <p>
     <img src="images/backend_development/logo_spring.svg" width="70" title="Spring" alt="Logo Spring">
-    <img src="images/backend_development/logo_node.svg" width="70" title="Node.js" alt="Logo Node.js">
+    <img src="images/backend_development/logo_node.svg" width="85" title="Node.js" alt="Logo Node.js">
   </a>
 </p>
 
 <h3>Bancos de dados</h3>
 <p>
     <img src="images/databases/logo_mysql.svg" width="70" title="MySQL" alt="Logo MySQL">
+    <img src="images/databases/logo_postgresql.svg" width="55" title="PostgreSQL" alt="Logo PostgreSQL">
 </p>
 
 
@@ -56,12 +57,9 @@ Atualmente trabalho mais com Java, Spring e Angular, desenvolvendo projetos que 
         <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Instagram" style="border:0;">
     </a>
     <br>
-    <div style="display:flex">
-        <a href="mailto:felipeboos18@gmail.com">
+    <a href="mailto:felipeboos18@gmail.com">
         <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="vertical-align:middle; margin-right:10px;">  
-        </a>
-        felipeboos18@gmail.com
-    </div>
+    </a>
     <!--<p>🖂 felipeboos18@gmai.com</p>-->
 </div>
 
