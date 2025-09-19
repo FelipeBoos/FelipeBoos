@@ -6,7 +6,7 @@ Atualmente complemento meus estudos com formações na Alura e na Udemy.
 </p>
 
 <p align="left">
-Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar o que aprendo no desenvolvimento de soluções criativas, eficientes e de qualidade. 🚀
+Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar o que aprendo no desenvolvimento de soluções criativas, eficientes e de qualidade. Abaixo estão minhas redes sociais caso queira entrar em contato. 🚀
 </p>
 
 <p align="left">
@@ -64,10 +64,11 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     </a>
     <br>
     <div style="display:flex">
-        <a href="mailto:felipeboos18@gmail.com" style="text-decoration:none;">
-        <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="vertical-align:middle; margin-right:10px;">
+        <a href="mailto:felipeboos18@gmail.com">
+        <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="vertical-align:middle; margin-right:10px;">  
+        </a>
         felipeboos18@gmail.com
-    </a>
+    </div>
 </div>
 
 <!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
