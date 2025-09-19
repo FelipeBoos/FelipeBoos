@@ -31,14 +31,14 @@ Atualmente trabalho mais com Java, Spring e Angular, e para colocar meus conheci
 
 <h3>Desenvolvimento Backend</h3>
 <p>
-    <img src="images/backend_development/logo_spring.svg" width="70" title="Spring" alt="Logo Spring">
-    <img src="images/backend_development/logo_node.svg" width="85" title="Node.js" alt="Logo Node.js">
+    <img src="images/backend_development/logo_spring.svg" width="50" title="Spring" alt="Logo Spring">
+    <img src="images/backend_development/logo_node.svg" width="80" title="Node.js" alt="Logo Node.js">
   </a>
 </p>
 
 <h3>Bancos de dados</h3>
 <p>
-    <img src="images/databases/logo_mysql.svg" width="70" title="MySQL" alt="Logo MySQL">
+    <img src="images/databases/logo_mysql.svg" width="85" title="MySQL" alt="Logo MySQL">
     <img src="images/databases/logo_postgresql.svg" width="55" title="PostgreSQL" alt="Logo PostgreSQL">
 </p>
 
