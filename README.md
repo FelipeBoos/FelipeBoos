@@ -1,5 +1,7 @@
 <h2>Olá 👋, eu sou o Felipe!</h2>
 
+<h3 align="left"> Sobre mim 👨</h3>
+
 <p align="left">
 Sou estudante de Ciência da Computação (4ª fase) na FURB e estou sempre buscando expandir meus conhecimentos por meio de cursos e projetos práticos. 
 Atualmente complemento meus estudos com formações na Alura e na Udemy.
@@ -22,8 +24,6 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
 </p>
 
-<div role="separator" style="height:3px; background:rgba(255, 255, 255, 0.55); margin:16px 0;"></div>
-
 <h3>Desenvolvimento Frontend</h3>
 <p>
     <img src="images/web_development/logo_html5.svg" width="100" title="HTML" alt="Logo HTML 5">
@@ -32,16 +32,12 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
     <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
 </p>
 
-<div role="separator" style="height:3px; background:rgba(255,255,255,0.5); margin:16px 0;"></div>
-
 <h3>Desenvolvimento Backend</h3>
 <p>
     <img src="images/backend_development/logo_spring.svg" width="100" title="Spring" alt="Logo Spring">
     <img src="images/backend_development/logo_node.svg" width="100" title="Node.js" alt="Logo Node.js">
   </a>
 </p>
-
-<div role="separator" style="height:3px; background:rgba(255,255,255,0.5); margin:16px 0;"></div>
 
 <h3>Bancos de dados</h3>
 <p>
@@ -53,7 +49,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBoos&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=vue&hide_border=true&order=2&custom_title=Linguagens%20Mais%20Utilizadas%20-%20Projetos" height="150" alt="Gráfico de Linguagens"  />
 </div>
 
-<h2>Entre em contato comigo!</h2>
+<h2>Entre em contato comigo! 📫</h2>
 <div align="left">
     <a href="https://www.linkedin.com/in/felipe-boos-922380241" target="_blank" style="text-decoration:none; display:inline-block">
         <img src="images/social_media/logo_linkedin.svg" width="40" title="LinkedIn" alt="Logo LinkedIn" style="border:0;">
@@ -63,12 +59,7 @@ Apaixonado por tecnologia, tenho como objetivo evoluir constantemente e aplicar 
         <img src="images/social_media/logo_instagram.svg" width="40" title="Instagram" alt="Logo Instagram" style="border:0;">
     </a>
     <br>
-    <div style="display:flex">
-        <a href="mailto:felipeboos18@gmail.com">
-        <img src="images/social_media/logo_gmail.svg" width="40" title="Gmail" alt="Logo Gmail" style="vertical-align:middle; margin-right:10px;">  
-        </a>
-        felipeboos18@gmail.com
-    </div>
+    <p>🖂 felipeboos18@gmai.com</p>
 </div>
 
 <!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
