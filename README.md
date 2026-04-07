@@ -3,7 +3,7 @@
 <h3 align="left">Sobre mim</h3>
 
 <p align="left">
-Estudante de Ciência da Computação (4ª fase) na FURB, complementando minha formação com cursos na Alura e Udemy.
+Estudante de Ciência da Computação (5ª fase) na FURB, complementando minha formação com cursos na Alura e Udemy.
 Atualmente desenvolvo o <strong>PriceLab</strong> — um sistema fullstack de gestão de produtos com simulação de estratégias de precificação,
 utilizando: <br> <br> <strong>- Java</strong> <br> <strong>- Spring Boot</strong> <br> <strong>- PostgreSQL</strong> <br> <strong>- Angular</strong>
 </p>
