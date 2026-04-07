@@ -1,14 +1,11 @@
 <h2>Olá, eu sou o Felipe!</h2>
 
-<h3 align="left"> Sobre mim</h3>
+<h3 align="left">Sobre mim</h3>
 
 <p align="left">
-Sou estudante de Ciência da Computação (4ª fase) na FURB e estou sempre buscando expandir meus conhecimentos por meio de cursos e projetos práticos. 
-Atualmente complemento meus estudos com formações na Alura e na Udemy.
-</p>
-
-<p align="left">
-Atualmente trabalho mais com Java, Spring e Angular, e para colocar meus conhecimentos em prática estou desenvolvendo um sistema de gestão de estoques, utilizando também JUnit e PostgreSQL. Abaixo estão minhas redes sociais caso queira entrar em contato!
+Estudante de Ciência da Computação (4ª fase) na FURB, complementando minha formação com cursos na Alura e Udemy.
+Atualmente desenvolvo o <strong>PriceLab</strong> — um sistema fullstack de gestão de produtos com simulação de estratégias de precificação,
+utilizando: <br> <br> <strong>- Java</strong> <br> <strong>- Spring Boot</strong> <br> <strong>- PostgreSQL</strong> <br> <strong>- Angular</strong>
 </p>
 
 <h2 align="center">- Tech Stack -</h2>
@@ -42,11 +39,6 @@ Atualmente trabalho mais com Java, Spring e Angular, e para colocar meus conheci
     <img src="images/databases/logo_postgresql.svg" width="55" title="PostgreSQL" alt="Logo PostgreSQL">
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBoos&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=vue&hide_border=true&order=2&custom_title=Linguagens%20Mais%20Utilizadas%20-%20Projetos" height="150" alt="Gráfico de Linguagens"  />
-</div>
-
 <h2>Entre em contato comigo!</h2>
 <div align="left">
     <a href="https://www.linkedin.com/in/felipe-boos-922380241" target="_blank" style="text-decoration:none; display:inline-block">
@@ -62,65 +54,3 @@ Atualmente trabalho mais com Java, Spring e Angular, e para colocar meus conheci
     </a>
     <!--<p>🖂 felipeboos18@gmai.com</p>-->
 </div>
-
-<!-- ** Imagens ficam com sublinhado quando utilizo o <a>, verificar para corrigir
-
-<h3>Linguagens de Programação</h3>
-<p>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none; display:inline-block">
-    <img src="images/programming_languages/logo_java.svg" width="100" title="Java" alt="Logo Java" style="border:0;">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/programming_languages/logo_javascript.svg" width="100" title="JavaScript" alt="Logo JavaScript">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/programming_languages/logo_typescript.svg" width="100" title="TypeScript" alt="Logo TypeScript">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/programming_languages/logo_python.svg" width="100" title="Python" alt="Logo Python">
-  </a>
-</p>
-
-<hr>
-
-<h3>Desenvolvimento Frontend</h3>
-<p>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/web_development/logo_html5.svg" width="100" title="HTML" alt="Logo HTML 5">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/web_development/logo_css3.svg" width="100" title="CSS" alt="Logo CSS 3">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/web_development/logo_angular.svg" width="100" title="Angular" alt="Logo Angular">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
-  </a>
-  <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
-  <img src="images/web_development/logo_react.svg" width="100" title="React" alt="Logo React">
-</p>
-
-<hr>
-
-<h3>Desenvolvimento Backend</h3>
-<p>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/backend_development/logo_spring.svg" width="100" title="Spring" alt="Logo Spring">
-  </a>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/backend_development/logo_node.svg" width="100" title="Node.js" alt="Logo Node.js">
-  </a>
-</p>
-
-<hr>
-
-<h3>Bancos de dados</h3>
-<p>
-  <a href="https://www.instagram.com/felipe_boos" target="_blank" style="text-decoration:none;">
-    <img src="images/databases/logo_mysql.svg" width="100" title="MySQL" alt="Logo MySQL">
-  </a>
-</p>
-
-
--->
