@@ -7,10 +7,12 @@ Estudante de Ciência da Computação na FURB, atualmente na 5ª fase.<br><br>
 
 Profissional com 3+ anos de experiência como <strong>Suporte Técnico N1</strong>, com foco em sistemas ERP e logística, resolvendo problemas reais de usuários e lidando com regras de negócio no dia a dia.<br><br>
 
-Atualmente estou em transição para desenvolvimento, focado em backend e construção de sistemas completos, e busco minha primeira oportunidade como <strong>desenvolvedor júnior ou estagiário</strong>.<br><br>
+Atualmente estou em transição para desenvolvimento, focado em backend e construção de sistemas completos, e busco minha primeira oportunidade como <strong>desenvolvedor júnior ou estagiário</strong>.
+</p>
 
-## 📌 Projeto em destaque
+<h3 align="left">📌 Projeto em destaque</h3>
 
+<p align="left">
 Atualmente desenvolvo o <strong>PriceLab</strong> — um sistema fullstack de gestão de produtos com simulação de estratégias de precificação,
 utilizando: <br><br>
 
@@ -23,6 +25,11 @@ utilizando: <br><br>
 <strong>- Migração e versionamento de banco de dados (Flyway)</strong><br>
 <strong>- Tratamento de exceções</strong><br>
 <strong>- Testes Unitários com JUnit e Mockito</strong><br><br>
+
+🚀 <strong>Confira o projeto:</strong><br>
+<a href="https://github.com/FelipeBoos/PriceLab" target="_blank">
+📊 PriceLab
+</a>
 </p>
 
 <h2 align="center">- Tech Stack -</h2>
